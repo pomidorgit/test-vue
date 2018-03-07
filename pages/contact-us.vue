@@ -9,12 +9,13 @@
 <script>
   export default {
     head:{
-      titleTemplate: 'Us and',
+      titleTemplate: 'Contact us',
     },
     data() {
       return {
-        titlePages: 'Us and'
+        titlePages: 'Contact us'
       }
     }
   }
+
 </script>

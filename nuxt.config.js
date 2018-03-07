@@ -20,6 +20,10 @@ module.exports = {
   */
   loading: { color: '#3B8070' },
   plugins: ['~/plugins/slick'],
+  css:[
+    '~assets/css/font-awesome.css'
+  ],
+
   /*
   ** Build configuration
   */
